@@ -1,0 +1,16 @@
+
+ html, body {
+    overflow-x: hidden;
+  }
+.d-flex a{
+    font-size: 15 em;
+}
+
+.part2 img{
+    width:400px;
+}
+.d-flex img{
+    width:10%;
+}
+
+
